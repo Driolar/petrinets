@@ -20,12 +20,6 @@ AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAApSURBVDhPYxgF9Af/oTRFAGQI1QwC
 A5iJ5GKyAdmaKbKZIicPT8DAAADJtBfpwGY0agAAAABJRU5ErkJggg=='
 ]
 
-{ #category : 'accessing' }
-OPPetriNetsIcons class >> current [
-
-	^ self
-]
-
 { #category : 'accessing - icons' }
 OPPetriNetsIcons class >> inhibitorArcIcon [
 
